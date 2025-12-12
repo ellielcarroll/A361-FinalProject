@@ -91,9 +91,9 @@ python3 pythonCases.py
 
 
 
-GITIGNORE FILE
+ANALYSIS AND EXPLANATION
 
-Located in the diagrams/ folder:
+Located in the .pdf file:
 
 Explanation of scoping rules
 
